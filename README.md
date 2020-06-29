@@ -5,8 +5,7 @@
 
 *Esta é uma aplicação fictícia e, portanto, os cupons de desconto não são válidos.*
 
-![](./repo-images/wheelz.png)
-![](./repo-images/modal-prize.png)
+![](./repo-images/wheelz.gif)
 ![](./repo-images/email-sample.png)
 
 ## Instalação
