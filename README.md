@@ -1,12 +1,13 @@
 # Wheelz
 > Rode a roda e ganhe descontos!
 
-###### Wheelz é uma roleta premiada desenvolvida utilizando VueJS (frontend) e Lumen (backend). ######
+#### Wheelz é uma roleta premiada desenvolvida utilizando VueJS (frontend) e Lumen (backend). ####
 
 *Esta é uma aplicação fictícia e, portanto, os cupons de desconto não são válidos.*
 
-![](./wheelz.png)
-![](./email-sample.png)
+![](./repo-images/wheelz.png)
+![](./repo-images/modal-prize.png)
+![](./repo-images/email-sample.png)
 
 ## Instalação
 #### Backend
